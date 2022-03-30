@@ -35,6 +35,8 @@ NR MDTVSFA           |        0.921918
 FR VMAF Y (v061)          |      0.942068
 FR VMAF YUV                |       0.948621
 
+<img src="/figures/leaderboard.png">
+
 ## How to submit
 Send us an email to vqa@videoprocessing.ai with the file of .exe extension with your algorithm and instructions to run it from console. When launched from console we expect your file to have following options (or their analogs):
 
